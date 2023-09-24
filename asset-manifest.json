@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/alkafeel/static/css/main.4d5b0d4a.css",
+    "main.js": "/alkafeel/static/js/main.42ad10d7.js",
+    "static/js/787.a17ddf77.chunk.js": "/alkafeel/static/js/787.a17ddf77.chunk.js",
+    "static/media/mainimage.png": "/alkafeel/static/media/mainimage.b122f92d9d1c05812af2.png",
+    "static/media/RoobertTRIAL-Regular.41f9c4ff.otf": "/alkafeel/static/media/RoobertTRIAL-Regular.41f9c4ff.fb8c49d050004f5cb546.otf",
+    "static/media/RoobertTRIAL-Medium.4f71df9a.otf": "/alkafeel/static/media/RoobertTRIAL-Medium.4f71df9a.1a76ac30f11ab6170f87.otf",
+    "static/media/logo.svg": "/alkafeel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/alkafeel/index.html",
+    "main.4d5b0d4a.css.map": "/alkafeel/static/css/main.4d5b0d4a.css.map",
+    "main.42ad10d7.js.map": "/alkafeel/static/js/main.42ad10d7.js.map",
+    "787.a17ddf77.chunk.js.map": "/alkafeel/static/js/787.a17ddf77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d5b0d4a.css",
+    "static/js/main.42ad10d7.js"
+  ]
+}
