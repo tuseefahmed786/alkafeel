@@ -5,7 +5,7 @@ import Topnavbar from "./components/topnavbar/topnavbar"
 import Main from "./components/mainhero/main"
 function App() {
   return (
-  <>
+  <> 
   <div className='app-wrapper'>
   <Topnavbar/>
   <Main/>
