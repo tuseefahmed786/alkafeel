@@ -1,0 +1,80 @@
+li.icon-s img {
+    width: 100%;
+}
+.icon-s{
+    width: 12px;
+    list-style: none;
+    padding-bottom: 12px;
+}
+.icon-s:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+article.main-text {
+    max-width: 600px;
+    padding-top: 99px;
+    text-align: center;
+}
+.social-mediaicon {
+    position: absolute;
+    left: 50px;
+}
+article.main-text h1 {
+    font-size: 50px;
+}
+article.main-text p{
+    font-size: 19px;
+}
+.circle-span {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: #37dc98;
+}
+
+.circle-logo{
+    width: 11px;
+    height: 11px;
+    margin-left: 9px;
+}
+
+button.startproject-btn {
+    margin-top: 14px;
+    padding: 12px 21px;
+    display: flex;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    font-family: inherit;
+    border-radius: 51px;
+    font-size: larger;
+    border: 1px solid #262839;
+    word-spacing: 4px;
+    font-weight: 700;
+    transition: all .5s ease-in;
+
+}
+button.startproject-btn:hover {
+background: #37dc98;
+}
+
+button.startproject-btn:hover .circle-span-project{
+    background: white;
+    }
+.circle-span-project {
+    width: 68px;
+    height: 44px;
+    background-color: #37dc98;
+    border-radius: 90px;
+    margin-left: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.startproject-wraper {
+    display: flex;
+    justify-content: center;
+}
+

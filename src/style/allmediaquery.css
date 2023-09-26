@@ -1,0 +1,48 @@
+@media screen and (max-width: 770px) {
+    .nav{
+        display: none!important;
+    }
+    article.main-text {
+        padding-top: 50px;
+    }
+
+    .social-mediaicon {
+position: static!important;
+margin-top:20px;
+    }
+    .social-mediaicon ul{
+        display: flex;
+    }
+    .social-mediaicon ul li{
+        padding-bottom: 0;
+        padding-right: 20px;
+    }
+    .flex-center {
+flex-direction: column-reverse;
+align-items: center!important;
+    }
+    .main-text{
+        padding-top: 50px!important;
+    }
+}
+
+@media screen and (max-width: 470px) {
+
+    .main-text{
+text-align: start!important;
+    }
+
+.app-wrapper{
+    margin: 14px 18px;
+    height: fit-content;
+}
+button.startproject-btn{
+ font-size: 14px!important;   
+ width: 100%!important;
+}
+.circle-span-project {
+    width: 44px!important;
+    height: 33px!important;
+    margin-left: 12px!important;
+}
+}

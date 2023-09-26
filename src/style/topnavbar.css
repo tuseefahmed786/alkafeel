@@ -1,0 +1,56 @@
+h1,h2,h3,h4,h5,ul{
+    margin: 0;
+    padding: 0;
+}
+
+.topnavbar-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.alkafeel-logo{
+    display: inline-flex;
+}
+
+.navbar{
+    display: inline-flex;
+}
+
+.nav {
+    list-style: none;
+    display: flex;
+    height: -moz-fit-content;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 30px;
+}
+.navbar {
+    display: inline-flex;
+    background: white;
+    border-radius: 20px;
+}
+.navbar ul li a:hover{
+    opacity: 0.8;
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+
+    padding-right: 30px;
+
+}
+button.button-contact {
+    padding: 12px 24px;
+    background: white;
+    font-family: inherit;
+    font-weight: 700;
+    transition: width .3s ease;
+}
+
+
+button.button-contact:hover{
+    text-decoration: underline;
+}
