@@ -20,7 +20,7 @@ function mains() {
             <li className="icon-s">
               <img src={instagram} alt="" />
             </li>
-          </ul>
+          </ul>   
         </div>
         <article className="main-text">
           <div className="cover-maintext">
