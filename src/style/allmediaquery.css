@@ -5,7 +5,18 @@
     article.main-text {
         padding-top: 50px;
     }
-
+    .wrapSection{
+        margin-top: 40px!important;
+        flex-direction: column!important;
+        align-items: center!important;
+    }
+    .sectionServiceCard{
+        width: 100%!important;
+    }
+    .serviceTitle{
+        margin-top: 0;
+        margin-bottom: 5rem;
+    }
     .social-mediaicon {
 position: static!important;
 margin-top:20px;
@@ -37,12 +48,12 @@ text-align: start!important;
     height: fit-content;
 }
 button.startproject-btn{
- font-size: 14px!important;   
- width: 100%!important;
+ font-size: 19px!important;   
+ width: 90%!important;
 }
 .circle-span-project {
-    width: 44px!important;
-    height: 33px!important;
+    width: 55px!important;
+    height: 35px!important;
     margin-left: 12px!important;
 }
 }

@@ -39,12 +39,15 @@ article.main-text p{
     margin-left: 9px;
 }
 
-button.startproject-btn {
+.startproject-btn {
     margin-top: 14px;
     padding: 12px 21px;
     display: flex;
     border: none;
-    justify-content: center;
+    background: white;
+    color: black;
+    width: 310px;
+    justify-content: space-between;
     align-items: center;
     font-family: inherit;
     border-radius: 51px;
@@ -53,13 +56,14 @@ button.startproject-btn {
     word-spacing: 4px;
     font-weight: 700;
     transition: all .5s ease-in;
+    text-decoration: none;
 
 }
-button.startproject-btn:hover {
+.startproject-btn:hover {
 background: #37dc98;
 }
 
-button.startproject-btn:hover .circle-span-project{
+.startproject-btn:hover .circle-span-project{
     background: white;
     }
 .circle-span-project {

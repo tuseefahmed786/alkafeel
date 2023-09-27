@@ -1,0 +1,18 @@
+.slider{
+    transition-duration: 5000ms;
+    transform: translate3d(-6100px, 0px, 0px);
+
+    align-items: center!important;
+    transition-timing-function: linear!important;
+
+    transform: translateZ(0);
+
+
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: flex;
+    transition-property: transform;
+    box-sizing: content-box;
+}

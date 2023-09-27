@@ -28,10 +28,15 @@ body{
 
 .app-wrapper {
   padding: 28px 28px;
-  height: 95vh;
   color: white;
   border-radius: 31px;
   background: #262839;
   margin: 18px 22px;
+  box-sizing: border-box;
+}
+
+.secondSectionWrapper {
+  border-radius: 31px;
+  margin: 20px 22px;
   box-sizing: border-box;
 }
