@@ -8,7 +8,6 @@
     border-radius: 24px;
     margin-bottom:12px ;
     width: 380px;
-    /* background-image: url("../assests/service/rocket.png"); */
 }
 .serviceTitle h1 span{
 color: #37dc98;
@@ -47,3 +46,4 @@ font-weight: 700;
     margin-top: 80px;
     justify-content: space-around;
 }
+

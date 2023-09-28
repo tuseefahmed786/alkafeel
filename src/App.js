@@ -5,7 +5,8 @@ import Topnavbar from "./components/topnavbar/topnavbar";
 import Main from "./components/mainhero/main";
 import HeroSection from "./components/mainhero/heroSection";
 import Service from "./components/services/service";
-import Slider from "./components/slider/slider";
+import WorkSectionParent from "./components/worksection/workSectionParent";
+
 function App() {
   return (
     <>
@@ -18,7 +19,7 @@ function App() {
         <Service/>
         
       </div>
-      {/* <Slider/> */}
+      <WorkSectionParent/>
     </>
   );
 }

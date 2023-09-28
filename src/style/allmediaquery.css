@@ -3,7 +3,16 @@
         display: none!important;
     }
     article.main-text {
-        padding-top: 50px;
+             padding-top: 50px;
+    }
+    .workSectionImage {
+        place-self: unset;
+
+        width: 100%;
+    }
+    .workSectionImage img {
+        place-self:none ;
+        width: 100%;
     }
     .wrapSection{
         margin-top: 40px!important;
@@ -38,7 +47,9 @@ align-items: center!important;
 }
 
 @media screen and (max-width: 470px) {
-
+    .startproject-btn{
+        width: 90;
+    }
     .main-text{
 text-align: start!important;
     }
@@ -47,7 +58,7 @@ text-align: start!important;
     margin: 14px 18px;
     height: fit-content;
 }
-button.startproject-btn{
+a.startproject-btn{
  font-size: 19px!important;   
  width: 90%!important;
 }
@@ -55,5 +66,21 @@ button.startproject-btn{
     width: 55px!important;
     height: 35px!important;
     margin-left: 12px!important;
+}
+}
+@media screen and (max-width: 978px) {
+.workSectionWrapper{
+    flex-direction: column;
+    gap: 40px;
+    justify-content: center!important;
+}
+.workSectionImage {
+    place-self: end;
+}
+.workSectionTitle {
+    width: inherit!important;
+}
+.sectionTitle {
+    width: 636px;
 }
 }
