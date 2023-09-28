@@ -35,7 +35,7 @@ function workSectionParent(params) {
 
 <div className="sectionTitle">
 <h2>Our Work</h2>
-
+<a href="https://dribbble.com/farazahmed4462">View All</a>
 </div>
     {workSectionData.map((e)=>{
     return  <WorkSection imgName={e} />

@@ -1,6 +1,5 @@
 import React from 'react'
 import "../../style/topnavbar.css"
-import logo from "../../assests/topnavbar/logo.jpeg"
 function topnavbar() {
   return (
 <>

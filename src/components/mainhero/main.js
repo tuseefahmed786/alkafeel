@@ -12,13 +12,15 @@ function mains() {
         <div className="social-mediaicon">
           <ul>
             <li className="icon-s">
-              <img src={cluth} alt="" />
+           
+<a href="/"> <img src={cluth} alt="" /></a>
             </li>
             <li className="icon-s">
-              <img src={linkdein} alt="" />
+              <a href="https://www.linkedin.com/in/tuseef-ahmed-286a9521b/"><img src={linkdein} alt="" /></a>
             </li>
             <li className="icon-s">
-              <img src={instagram} alt="" />
+           
+<a href="https://instagram.com/alkafeel14?igshid=OGQ5ZDc2ODk2ZA=="> <img src={instagram} alt="" /></a>
             </li>
           </ul>   
         </div>

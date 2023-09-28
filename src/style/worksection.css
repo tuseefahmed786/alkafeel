@@ -27,3 +27,14 @@
 .workSectionDetails {
     margin-top: 40px;
 }
+.sectionTitle {
+    margin-bottom: 4rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sectionTitle a {
+    font-size: 30px;
+    color: #bd00ff;
+    font-weight: 700;
+}

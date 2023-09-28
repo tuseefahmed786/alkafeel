@@ -53,7 +53,15 @@ align-items: center!important;
     .main-text{
 text-align: start!important;
     }
-
+    .sectionTitle {
+        justify-content: space-between!important;
+    }
+    .sectionTitle a {
+        font-size: 24px!important;
+    }
+    .sectionTitle h2 {
+        font-size: 32px!important;
+    }
 .app-wrapper{
     margin: 14px 18px;
     height: fit-content;
@@ -80,7 +88,5 @@ a.startproject-btn{
 .workSectionTitle {
     width: inherit!important;
 }
-.sectionTitle {
-    width: 636px;
-}
+
 }
