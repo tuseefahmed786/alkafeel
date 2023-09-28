@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/alkafeel/static/css/main.4f3b09e3.css",
-    "main.js": "/alkafeel/static/js/main.91c41e2e.js",
+    "main.css": "/alkafeel/static/css/main.3789f6ed.css",
+    "main.js": "/alkafeel/static/js/main.7f513faf.js",
     "static/js/787.a17ddf77.chunk.js": "/alkafeel/static/js/787.a17ddf77.chunk.js",
     "static/media/mainimage.png": "/alkafeel/static/media/mainimage.b122f92d9d1c05812af2.png",
     "static/media/Shop.png": "/alkafeel/static/media/Shop.61b988bf4179d6e04b09.png",
     "static/media/heroimage.png": "/alkafeel/static/media/heroimage.e7f8b17649395ecf38c6.png",
+    "static/media/firstwork.png": "/alkafeel/static/media/firstwork.b8798dddb25ed4f14e29.png",
+    "static/media/secondwork.png": "/alkafeel/static/media/secondwork.f128368451018eefd9a6.png",
     "static/media/rocket.png": "/alkafeel/static/media/rocket.6def6286d8784e483c5c.png",
     "static/media/RoobertTRIAL-Regular.41f9c4ff.otf": "/alkafeel/static/media/RoobertTRIAL-Regular.41f9c4ff.fb8c49d050004f5cb546.otf",
     "static/media/RoobertTRIAL-Medium.4f71df9a.otf": "/alkafeel/static/media/RoobertTRIAL-Medium.4f71df9a.1a76ac30f11ab6170f87.otf",
     "static/media/logo.svg": "/alkafeel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/alkafeel/index.html",
-    "main.4f3b09e3.css.map": "/alkafeel/static/css/main.4f3b09e3.css.map",
-    "main.91c41e2e.js.map": "/alkafeel/static/js/main.91c41e2e.js.map",
+    "main.3789f6ed.css.map": "/alkafeel/static/css/main.3789f6ed.css.map",
+    "main.7f513faf.js.map": "/alkafeel/static/js/main.7f513faf.js.map",
     "787.a17ddf77.chunk.js.map": "/alkafeel/static/js/787.a17ddf77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f3b09e3.css",
-    "static/js/main.91c41e2e.js"
+    "static/css/main.3789f6ed.css",
+    "static/js/main.7f513faf.js"
   ]
 }
