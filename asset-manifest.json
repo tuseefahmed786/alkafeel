@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/alkafeel/static/css/main.2ac42253.css",
-    "main.js": "/alkafeel/static/js/main.edc483c8.js",
+    "main.css": "/alkafeel/static/css/main.365d5244.css",
+    "main.js": "/alkafeel/static/js/main.340b231b.js",
     "static/js/787.a17ddf77.chunk.js": "/alkafeel/static/js/787.a17ddf77.chunk.js",
     "static/media/mainimage.png": "/alkafeel/static/media/mainimage.b122f92d9d1c05812af2.png",
     "static/media/Shop.png": "/alkafeel/static/media/Shop.61b988bf4179d6e04b09.png",
     "static/media/heroimage.png": "/alkafeel/static/media/heroimage.e7f8b17649395ecf38c6.png",
     "static/media/firstwork.png": "/alkafeel/static/media/firstwork.b8798dddb25ed4f14e29.png",
     "static/media/secondwork.png": "/alkafeel/static/media/secondwork.f128368451018eefd9a6.png",
+    "static/media/original-png": "/alkafeel/static/media/original-243fe2dbd024e13aedef0fc5830f81d4.67fe3dd79f37f4333587.png",
+    "static/media/effect.png": "/alkafeel/static/media/effect.53be8b12a0b9d5da6117.png",
     "static/media/rocket.png": "/alkafeel/static/media/rocket.6def6286d8784e483c5c.png",
     "static/media/RoobertTRIAL-Regular.41f9c4ff.otf": "/alkafeel/static/media/RoobertTRIAL-Regular.41f9c4ff.fb8c49d050004f5cb546.otf",
     "static/media/RoobertTRIAL-Medium.4f71df9a.otf": "/alkafeel/static/media/RoobertTRIAL-Medium.4f71df9a.1a76ac30f11ab6170f87.otf",
+    "static/media/WebgartenComp-Medium.woff2": "/alkafeel/static/media/WebgartenComp-Medium.5c7844b17368bdfe16bb.woff2",
     "static/media/shopify-ar21.svg": "/alkafeel/static/media/shopify-ar21.daeefaecad7e2084f7ecd955232543e3.svg",
     "static/media/logo.svg": "/alkafeel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/react-2.svg": "/alkafeel/static/media/react-2.e68b35f4774979ae220b1d5d7b345b00.svg",
@@ -21,14 +24,14 @@
     "static/media/javascript.svg": "/alkafeel/static/media/javascript.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
     "static/media/github.svg": "/alkafeel/static/media/github.6fa18895f6e6c7772cab7049f7e05f59.svg",
     "index.html": "/alkafeel/index.html",
-    "static/media/blobshape.svg": "/alkafeel/static/media/blobshape.8365ed1085522c18ad63.svg",
+    "static/media/blobshape.svg": "/alkafeel/static/media/blobshape.8365ed1085522c18ad638b66b66d279a.svg",
     "static/media/material-ui-1.svg": "/alkafeel/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
-    "main.2ac42253.css.map": "/alkafeel/static/css/main.2ac42253.css.map",
-    "main.edc483c8.js.map": "/alkafeel/static/js/main.edc483c8.js.map",
+    "main.365d5244.css.map": "/alkafeel/static/css/main.365d5244.css.map",
+    "main.340b231b.js.map": "/alkafeel/static/js/main.340b231b.js.map",
     "787.a17ddf77.chunk.js.map": "/alkafeel/static/js/787.a17ddf77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ac42253.css",
-    "static/js/main.edc483c8.js"
+    "static/css/main.365d5244.css",
+    "static/js/main.340b231b.js"
   ]
 }
