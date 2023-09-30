@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alkafeel/static/css/main.a7ad9199.css",
+    "main.css": "/alkafeel/static/css/main.2ac42253.css",
     "main.js": "/alkafeel/static/js/main.edc483c8.js",
     "static/js/787.a17ddf77.chunk.js": "/alkafeel/static/js/787.a17ddf77.chunk.js",
     "static/media/mainimage.png": "/alkafeel/static/media/mainimage.b122f92d9d1c05812af2.png",
@@ -23,12 +23,12 @@
     "index.html": "/alkafeel/index.html",
     "static/media/blobshape.svg": "/alkafeel/static/media/blobshape.8365ed1085522c18ad63.svg",
     "static/media/material-ui-1.svg": "/alkafeel/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
-    "main.a7ad9199.css.map": "/alkafeel/static/css/main.a7ad9199.css.map",
+    "main.2ac42253.css.map": "/alkafeel/static/css/main.2ac42253.css.map",
     "main.edc483c8.js.map": "/alkafeel/static/js/main.edc483c8.js.map",
     "787.a17ddf77.chunk.js.map": "/alkafeel/static/js/787.a17ddf77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7ad9199.css",
+    "static/css/main.2ac42253.css",
     "static/js/main.edc483c8.js"
   ]
 }
