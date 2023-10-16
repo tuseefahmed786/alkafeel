@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alkafeel/static/css/main.7b230722.css",
-    "main.js": "/alkafeel/static/js/main.ab77b2ab.js",
+    "main.js": "/alkafeel/static/js/main.fe1b349e.js",
     "static/js/787.a17ddf77.chunk.js": "/alkafeel/static/js/787.a17ddf77.chunk.js",
     "static/media/mainimage.png": "/alkafeel/static/media/mainimage.b122f92d9d1c05812af2.png",
     "static/media/Shop.png": "/alkafeel/static/media/Shop.61b988bf4179d6e04b09.png",
@@ -15,11 +15,11 @@
     "static/media/logo.svg": "/alkafeel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/alkafeel/index.html",
     "main.7b230722.css.map": "/alkafeel/static/css/main.7b230722.css.map",
-    "main.ab77b2ab.js.map": "/alkafeel/static/js/main.ab77b2ab.js.map",
+    "main.fe1b349e.js.map": "/alkafeel/static/js/main.fe1b349e.js.map",
     "787.a17ddf77.chunk.js.map": "/alkafeel/static/js/787.a17ddf77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b230722.css",
-    "static/js/main.ab77b2ab.js"
+    "static/js/main.fe1b349e.js"
   ]
 }
